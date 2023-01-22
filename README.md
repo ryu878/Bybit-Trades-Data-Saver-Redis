@@ -1,5 +1,5 @@
 # Bybit Trades Data Saver Redis
-Python script - Bybit OHLC Data Saver using Redis in-memory key valued database
+Python script - Bybit Trades Data Saver using Redis in-memory key value database
 
 Script will take the Trades data from Bybit REST API, save it to Redis in JSON format.
 
