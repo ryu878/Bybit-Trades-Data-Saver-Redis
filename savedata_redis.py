@@ -1,4 +1,4 @@
-# Ryuryu's Bybit Volume Saver
+# Ryuryu's Bybit Trades Saver
 # Redis Edition (Production Mode #6973)
 # --------------------------------------------------
 # (c) 2023 Ryan Hayabusa 
