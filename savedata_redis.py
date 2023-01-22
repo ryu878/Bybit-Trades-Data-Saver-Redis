@@ -41,7 +41,8 @@ def get_trades(trades):
     # print(trade_id)
     expire = 60 * 30
 
-    r.json().set(trade_id, '.', data_str, expire)
+    r.json().set(trade_id, '.', data_str)
+    r.json().execute_command('expire', trade_id, expire_s)
 
 
 ws_perp.trade_stream(get_trades, assets_50)
