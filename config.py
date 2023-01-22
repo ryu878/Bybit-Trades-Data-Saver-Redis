@@ -7,3 +7,5 @@ url = 'wss://stream.bytick.com/realtime_public'
 endpoint = 'https://api.bybit.com'
 
 domain = 'bybit'
+
+expire_s = 333333
