@@ -27,7 +27,7 @@ Install Docker and Redis:
 
 To run the script type:
 
-<code>python3 50_savedata_redis</code>
+<code>python3 50_savedata_redis.py</code>
 
 To open Redis database go to:
 
