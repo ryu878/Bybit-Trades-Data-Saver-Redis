@@ -39,6 +39,8 @@ Feel free to contact me via Discord: https://discord.gg/zSw58e9Uvf
 
 or telegram: https://t.me/aadresearch
 
+<hr>
+
 <a href="https://discord.gg/zSw58e9Uvf">![image](https://user-images.githubusercontent.com/81808867/166115186-70de12b2-39fd-4eda-bb12-c1d8bec24ac6.png)</a>
 
 To start trading on Bybit please register here: [https://bybit.com](https://www.bybit.com/en-US/invite?ref=P11NJW)<br>
