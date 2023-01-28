@@ -35,9 +35,9 @@ To open Redis database go to:
 
 
 ## Contacts
-Feel free to contact me via Discord: https://discord.gg/zSw58e9Uvf
+Discord: https://discord.gg/zSw58e9Uvf
 
-or telegram: https://t.me/aadresearch
+Telegram: https://t.me/aadresearch
 
 <hr>
 
