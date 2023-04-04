@@ -1,7 +1,7 @@
 # Bybit Trades Data Saver Redis
 Python script - Bybit Trades Data Saver using Redis in-memory key value database
 
-Script will take the Trades data from Bybit REST API, save it to Redis in JSON format.
+Script will take the Trades data from Bybit API (websockets), save it to Redis in JSON format.
 
 [![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://aadresearch.xyz)
 
