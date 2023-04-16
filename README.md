@@ -14,6 +14,8 @@ Install Docker and Redis:
 <code>pip install redis</code>
 
 <code>docker run -d --name redis-stack -p 6379:6379 -p 8001:8001 redis/redis-stack:latest</code>
+
+<code>pip install pybit==2.4.1</code>
    
 
 To run the script type:
